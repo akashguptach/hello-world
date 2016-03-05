@@ -1,2 +1,3 @@
 # hello-world
-repository created while learning
+
+Hello people. I am trying my branching exercise.
